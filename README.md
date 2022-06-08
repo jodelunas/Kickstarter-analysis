@@ -8,7 +8,7 @@
 
 ### Analysis of Outcomes Based on Launch Date
 I created a pivot table based on the launch date and outcomes of campaigns. I then created a line chart to see the relationship between them. 
-
+https://github.com/jodelunas/Kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png?raw=true
 ### Analysis of Outcomes Based on Goals
 I used the countifs function to sort the different outcomes based on different ranges of their fundraising goal. I found the percentage of successful, failed and canceled within these ranges. I then created another line graph to see the relationship between them.
 
