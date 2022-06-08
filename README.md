@@ -8,6 +8,7 @@
 
 ### Analysis of Outcomes Based on Launch Date
 I created a pivot table based on the launch date and outcomes of campaigns. I then created a line chart to see the relationship between them. 
+![image](https://user-images.githubusercontent.com/106006911/172641876-ceb72e4b-833f-460c-90e4-c563e46886fb.png)
 
 ### Analysis of Outcomes Based on Goals
 I used the countifs function to sort the different outcomes based on different ranges of their fundraising goal. I found the percentage of successful, failed and canceled within these ranges. I then created another line graph to see the relationship between them.
